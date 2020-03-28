@@ -12,7 +12,10 @@
 * Lightweight
 
 
-
+### build
+* bundle install
+### run
+* bundle exec ruby web_app.rb
 
 "# github-organization-invites" 
 "# github-organization-invites" 
